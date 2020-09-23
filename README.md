@@ -24,10 +24,8 @@ Not expert, but okay
 ## Github Stats
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=falasyam&show_icons=true)
-
-  
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falasyam&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/wakatime?username=falasyam)
 
 
 
