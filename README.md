@@ -1,6 +1,9 @@
 # Hello, I'm Fala
 
-[![](https://img.shields.io/badge/-@falasyam-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/falasyam)
+My name is Fala, I'm from Indonesia. I'm interesting to UI/UX Designer and Front-End Developer.
+
+# Social Media
+[![Twitter](https://img.shields.io/badge/-@falasyam-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/falasyam) [![Instagram](https://img.shields.io/badge/fala.syam%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/fala.syam)
 
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=Soon&url=https%3A%2F%2Ffalasyam.my.id)](https://falasyam.my.id)
 
