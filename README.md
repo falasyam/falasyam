@@ -1,6 +1,6 @@
 <p align="center">
 
-  ![Fala github stats](https://github-readme-stats.vercel.app/api?username=falasyam&show_icons=true&hide_border=true)
+  ![Fala github stats](https://github-readme-stats.vercel.app/api?username=falasyam&show_icons=true)
 
   
 
