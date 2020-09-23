@@ -1,4 +1,13 @@
-<p align="center">
+# Hello, I'm Fala
+
+[![](https://img.shields.io/badge/-@falasyam-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/falasyam)
+
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=Soon&url=https%3A%2F%2Ffalasyam.my.id)](https://falasyam.my.id)
+
+
+
+
+
 
   ![Fala github stats](https://github-readme-stats.vercel.app/api?username=falasyam&show_icons=true)
 
@@ -6,7 +15,11 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falasyam&layout=compact)
 
-</p>
+
+
+# Music
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dm2z2ncmfyz4cewbykljhaw5n&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=dm2z2ncmfyz4cewbykljhaw5n&redirect=true)
 
 <!--
 **falasyam/falasyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
