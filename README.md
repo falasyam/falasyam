@@ -1,7 +1,7 @@
 # About Me
 
 My name is Fala, I'm from Indonesia. I'm interesting to UI/UX Designer and Front-End Development.
-- I'm looking for Internship or Work
+- I'm looking for Internship or Full Time
 
 <hr>
 
