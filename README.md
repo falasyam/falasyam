@@ -7,7 +7,7 @@ My name is Fala, I'm from Indonesia. I'm interesting to UI/UX Designer and Front
 
 [![Gmail Badge](https://img.shields.io/badge/-EMAIL%20ME-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fala.syam@gmail.com)](mailto:fala.syam@gmail.com)
 [![Twitter](https://img.shields.io/badge/-@falasyam-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/falasyam) [![Instagram](https://img.shields.io/badge/fala.syam%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fala.syam)
-[![](https://img.shields.io/website?color=0ab9e6&style=for-the-badge&up_message=Soon&url=https%3A%2F%2Ffalasyam.my.id)](https://falasyam.my.id)
+[![](https://img.shields.io/website?color=0ab9e6&style=for-the-badge&up_message=falasyam.my.id&url=https%3A%2F%2Ffalasyam.my.id)](https://falasyam.my.id)
 
 # Tech Stack
 Not expert, but okay
